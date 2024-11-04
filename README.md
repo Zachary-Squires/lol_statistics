@@ -6,3 +6,12 @@ My Jupyter notebook is included largely to show the process, a working API key w
 
 Link to my dashboard on Tableau Public:
 https://public.tableau.com/views/lol_17284549914120/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Zachary Squires
+zsquires01@gmail.com
+
+# All Projects in my Statistics Portfolio:
+| Number  | Repository Name | Description  |
+| ------------- | ------------- | ------------- |
+| 1  | [lol_statistics](https://github.com/Zachary-Squires/lol_statistics)  | Analysis of my League of Legends stats |
+| 2  | [sabaton_statistics](https://github.com/Zachary-Squires/sabaton_statistics)  | Analysis of the musical journey of one of my favorite bands |
