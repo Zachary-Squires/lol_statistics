@@ -5,7 +5,7 @@ Repository to hold things related to my League of Legends statistical analysis p
 My Jupyter notebook is included largely to show the process, a working API key will obviously not be included so it won't function unless the user went to this link (https://developer.riotgames.com/) and generated their own. Also included is the lol_table from my MySQL database in CSV form. 
 
 Link to my dashboard on Tableau Public:
-https://public.tableau.com/views/lol_17284549914120/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[https://public.tableau.com/views/lol_17284549914120/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/lol_17284549914120/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Zachary Squires
 zsquires01@gmail.com
